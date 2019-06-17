@@ -1,0 +1,44 @@
+body {
+  background-color: #6f6f6f;
+  color: white;
+  font-family: 'Questrial', sans-serif;
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+p {
+  font-size: 1.3rem;
+}
+
+h1, h2, h3 {
+  color: #D78381;
+}
+
+h3 {
+  font-size: 2rem;
+  color: white;
+  margin-top: 3em;
+}
+
+.save_the_date {
+  color: white;
+  font-size: 6rem;
+  letter-spacing: 0.2rem;
+  font-family: 'Rochester', cursive;
+}
+
+.date {
+  font-family: 'Bree Serif', serif;
+  font-size: 3.5rem;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #D78381;
+  color: white;
+  text-align: center;
+}
