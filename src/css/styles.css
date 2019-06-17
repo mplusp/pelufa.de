@@ -42,3 +42,9 @@ footer {
   color: white;
   text-align: center;
 }
+
+.centered {
+  position: absolute;
+  top: 40%;
+  transform: translateY(-50%);
+}
